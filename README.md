@@ -1,2 +1,0 @@
-# ReduxSagaText
-Created with CodeSandbox
